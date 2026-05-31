@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hello World! I'm Hein Thaw..
 
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.25 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.25 %
 
 ---
 
